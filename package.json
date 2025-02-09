@@ -2,7 +2,7 @@
   "name": "tci-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Saravans123.github.io/tci",
+  "homepage": "https://Saravans123.github.io/results",
   "dependencies": {
     "cra-template": "1.2.0",
     "lodash": "^4.17.21",
